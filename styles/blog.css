@@ -3,21 +3,30 @@ div{
   padding: 20px;
   margin: 10px;
   border-color: red;
+  border-radius: 20px;
 }
 .blog{
   background-color: chartreuse;
   border-color: 10px solid brown; 
- 
+  border-radius: 20px;
 }
 .page{
   background-color: rgb(150, 137, 220);
+  border-radius: 20px;
 }
 .Github{
   background-color: rgb(172, 149, 56);
+  border-radius: 20px;
 } 
 h3{
   background-color: rgb(255, 255, 255);
   border: 5px;
   border-radius: 5px;
   padding: 2px;
+}
+h1{
+  background-color: rgb(255, 0, 0);
+  border-radius: 10px;
+  border-color: black;
+  border: 10px;
 }
