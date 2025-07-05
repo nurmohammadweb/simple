@@ -1,9 +1,14 @@
 div{
   background-color: aquamarine;
   padding: 20px;
+  margin: 10px;
+  border-color: red;
 }
 .blog{
   background-color: chartreuse;
   border-color: 10px solid brown; 
-  
+ 
+}
+.page{
+  background-color: rgb(150, 137, 220);
 }
